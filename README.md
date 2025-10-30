@@ -11,4 +11,4 @@ Try it out [here](#)
 
 Here’s a snapshot of the terminal after pushing the project to GitHub:
 
-![Git Push](readme-images/git-push.png)
+![Git Push](https://github.com/Ansooo7/music-player-master/blob/main/music-player-master/readme-images/desktop.png?raw=true)
