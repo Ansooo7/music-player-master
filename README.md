@@ -3,7 +3,7 @@ A sleek and responsive music player web app built using HTML, CSS, and JavaScrip
 
 ## 🚀 Live Demo
 Try it out [here](#)  
-*(Replace with your GitHub Pages or live demo link)*
+*(http://127.0.0.1:5500/music-player-master/index.html)*
 
 
 
